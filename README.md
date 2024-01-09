@@ -1,1 +1,1 @@
-# Kiosk2
+# Kiosk
